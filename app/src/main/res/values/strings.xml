@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Say It!!</string>
+    <string name="cat">Cat</string>
+    <string name="horse">Horse</string>
+    <string name="turtle">Turtle</string>
+    <string name="bear">Bear</string>
+    <string name="butterfly">Butterfly</string>
+    <string name="giraffe">Giraffe</string>
+</resources>
